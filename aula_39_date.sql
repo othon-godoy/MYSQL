@@ -1,0 +1,18 @@
+'TIPOS DE DADOS DE DATA SQL'
+''
+
+'----------------MYSQL-----------------
+
+DATE        - FORMATO AAAA-MM-DD
+DATETIME    - FORMATO AAAA-MM-DD HH:MI:SS
+TIMESTAMP   - FORMATO AAAA-MM-DD HH:MI:SS
+YEAR        - FORMATO AAAA
+'
+
+'----------------SQL SERVER-----------------
+
+DATE            - FORMATO AAAA-MM-DD
+DATETIME        - FORMATO AAAA-MM-DD HH:MI:SS
+SMALLDATETIME   - FORMATO AAAA-MM-DD HH:MI:SS
+TIMESTAMP       - FORMATO número único
+'
